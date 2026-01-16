@@ -1,0 +1,30 @@
+---
+title: "Timo van Ommeren"
+subtitle: "Methodology & Statistics · Evidence synthesis · Reproducible research"
+format:
+  html:
+    toc: false
+    page-layout: full
+execute:
+  freeze: auto
+---
+
+::: {.columns style="align-items: center; margin-top: 0.5rem;"}
+
+:::: {.column width="65%"}
+# Hi — I’m Timo
+
+I’m a **Methodology & Statistics** master’s student at **Utrecht University**.
+
+This site is my portfolio: selected projects, writing, and a detailed CV.
+
+**Currently:** writing my thesis at the **AI-aided knowledge lab**.
+::::
+
+:::: {.column width="35%"}
+::: {.callout-note appearance="minimal"}
+## Quick links
+- **GitHub:** [github.com/timovanommeren](https://github.com/timovanommeren)
+- **Email:** [timovanommeren@gmail.com{timovanommeren@gmail.com}](mailto:timovanommeren@gmail.com)
+:::
+
