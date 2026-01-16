@@ -1,6 +1,6 @@
 ---
 title: "Timo van Ommeren"
-subtitle: "Methodology & Statistics · Evidence synthesis · Reproducible research"
+subtitle: "Methodology & Statistics"
 format:
   html:
     toc: false

@@ -15,11 +15,14 @@ execute:
 
 Here are a few of my selected writings. Most notably, I wrote reader for the conference [Dealing with Drugs](https://www.amsterdam.nl/dealingwithdrugs/reader/) in collaboration with leading field experts in drug policy and drug legalisation. Furthermore, I have written a few opinion pieces:
 
-- **DUB (Utrecht University)** — *Opinion:* “Embracing AI in education: an urgent need for academia”  
+- **Dealing with Drugs Reader** — "Exploring the past and the future of drug regulation"  
+  <https://www.amsterdam.nl/dealingwithdrugs/reader/>
+
+- **DUB (Utrecht University)** — “Embracing AI in education: an urgent need for academia”  
   <https://dub.uu.nl/en/opinion/embracing-ai-education-urgent-need-academia>
 
-- **Normaal Over Drugs** — *Singapore*  
+- **Normaal Over Drugs** — "Singapore is a classic example of failed drug policy"  
   <https://normaaloverdrugs.nl/singapore-schoolvoorbeeld-van-mislukt-drugsbeleid/>
 
-- **Normaal Over Drugs** — *(National) pride and shame in moral progress*  
+- **Normaal Over Drugs** — "The Dutch should be ashamed of their drug policy"  
   <https://normaaloverdrugs.nl/drugsbeleid-om-je-voor-te-schamen/>
