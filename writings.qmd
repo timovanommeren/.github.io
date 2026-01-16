@@ -1,0 +1,25 @@
+---
+title: "Selected Writings"
+subtitle: "Timo Quinn van Ommeren"
+format:
+  html:
+    toc: true
+    toc-location: right
+    number-sections: false
+    page-layout: full
+execute:
+  freeze: auto
+---
+
+## 
+
+Here are a few of my selected writings. Most notably, I wrote reader for the conference [Dealing with Drugs](https://www.amsterdam.nl/dealingwithdrugs/reader/) in collaboration with leading field experts in drug policy and drug legalisation. Furthermore, I have written a few opinion pieces:
+
+- **DUB (Utrecht University)** — *Opinion:* “Embracing AI in education: an urgent need for academia”  
+  <https://dub.uu.nl/en/opinion/embracing-ai-education-urgent-need-academia>
+
+- **Normaal Over Drugs** — *Singapore*  
+  <https://normaaloverdrugs.nl/singapore-schoolvoorbeeld-van-mislukt-drugsbeleid/>
+
+- **Normaal Over Drugs** — *(National) pride and shame in moral progress*  
+  <https://normaaloverdrugs.nl/drugsbeleid-om-je-voor-te-schamen/>

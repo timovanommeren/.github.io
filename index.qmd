@@ -16,7 +16,7 @@ execute:
 
 I’m a **Methodology & Statistics** master’s student at **Utrecht University**.
 
-This site is my portfolio: selected projects, writing, and a detailed CV.
+This site is my portfolio: writing, and a detailed CV.
 
 **Currently:** writing my thesis at the **AI-aided knowledge lab**.
 ::::
